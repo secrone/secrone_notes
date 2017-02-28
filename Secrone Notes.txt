@@ -1,0 +1,16 @@
+TEZ YAPILACAKLAR
+
+++ Camera görüntü tetikleme
+++ Görüntü aktarımı (TCP)
+++ Uçaktan gelen görüntüleri alma
+++ Gelen görüntüleri Vision API yollama
+++ Gelen sonuçları yorumlama ve arayüzde gösterme
+
+/*************/
+
++++ C# ta Http Request örneği.
+{
+    JSON data döndüren API bulup C# uygulamadan HTTP GET yaparak JSON datayı monitör etme.
+}
+
++++ Vision API kullanımı.
